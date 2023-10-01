@@ -1,3 +1,3 @@
 export default function Home() {
-  return <main className="h-full bg-slate-800"></main>;
+  return <main className="h-screen bg-slate-800"></main>;
 }
